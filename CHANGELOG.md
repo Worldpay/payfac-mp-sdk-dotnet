@@ -1,5 +1,9 @@
 CHANGELOG
 ---------
+
+## 15.0.4
+* **Feature** Addition of Value Added Services to Requests
+
 ## 15.0.3
 * **Feature** MPAPI SDK Update for MerchantCategoryCode Schema Change.
 
